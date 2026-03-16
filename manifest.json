@@ -1,0 +1,9 @@
+{
+	"id": "edit-count",
+	"name": "Edit Count",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Automatically tracks meaningful edit count per note in frontmatter. Use with Extended Graph to visualize frequently edited notes.",
+	"author": "daisuke",
+	"isDesktopOnly": false
+}
